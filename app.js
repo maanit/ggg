@@ -1,10 +1,10 @@
 (function () {
 'use strict';
- var x="NN";
+ x="NN";
 
-  angular.module('firstAngular', [])
+  angular.module('myFirstApp', [])
 
-  .controller('MyfirstController', function(){
+  .controller('MyFirstController', function(){
 
   });
 
